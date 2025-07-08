@@ -1,3 +1,31 @@
 h1 {
     color: red;
 }
+
+img {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+.container {
+    display: block;
+    padding: 10px;
+}
+
+a {
+    display: block;
+    color: red;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+button {
+    display: block;
+    background: rgb(4, 191, 248);
+    border: 1px solid #ddd;
+    outline: none;
+    border-radius: 15px;
+    padding: 20px 25px;
+    margin-bottom: 10px;
+}
